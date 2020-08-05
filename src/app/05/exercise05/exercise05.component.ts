@@ -12,7 +12,7 @@ export class Exercise05Component implements OnInit {
   ngOnInit(): void {
     /**
      * Exercise: When typing to an input element, request to users in JSONPlaceholder servers,
-     * filter the user names by the search value of the input element and display the response in the markup.
+     * filter the user names by the typed text of the input element and display the response in the markup.
      * Like autocomplete.
      * 
      * Hints: 
